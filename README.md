@@ -4,7 +4,7 @@ Student of second course RTU MIREA
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khvorostinn) 
-
+[![Vkontakte](https://img.shields.io/badge/VK-025E8C?.svg?logo=Vkonatkte&logoColor=white)](https://vk.com/khvorostinn)
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 # 📊 GitHub Stats:
